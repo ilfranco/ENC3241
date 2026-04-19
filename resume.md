@@ -4,4 +4,8 @@ title: Resume
 ---
 
 # Resume
-
+<object data="./assets/ENC3241_Revised_Resume_Ilarya_Franco.pdf" type="application/pdf" width="100%" height="800px">
+    <p>It appears your browser doesn't support embedded PDFs. 
+       <a href="./assets/ENC3241_Revised_Resume_Ilarya_Franco.pdf">Click here to download the PDF file.</a>
+    </p>
+</object>
